@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdpdate",
+        "uuid": 1048420,
+        "checksum": "s461gn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
